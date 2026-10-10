@@ -1,0 +1,28 @@
+MFHIS/
+├── activation-kernel-system/
+├── local-attractor-manifolds/
+├── AOR/
+├── TLR/
+├── RSR/
+├── provenance/
+├── conservation-laws/
+├── transformation-operators/
+├── constraint-system/
+├── irreversible-topology-mutation-log/
+├── topology-visualization-layer/
+└── active-pressures/
+TLR/
+├── specification/
+│ ├── TLR-100_SPEC.md
+│ ├── methodology/
+│ └── field_semantics/
+└── records/
+├── TLR-101_STABILIZATION_PRESERVATION_EMERGENCE.md
+├── TLR-102_CHRONOS_ORIGIN.md
+└── ...
+provenance/
+├── lineage/
+├── stabilization-records/
+├── chronology/
+└── observer-position/
+└── (active pressure, not yet stabilized)

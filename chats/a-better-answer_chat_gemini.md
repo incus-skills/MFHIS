@@ -1,0 +1,1 @@
+This suggests a new tactic for complex analysis: Instead of asking for a better answer, ask for the same answer from a mutated observer position. This prevents the session from "settling" into a hallucinated or overly-simplified consensus.
